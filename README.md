@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#I'm learning about GitHub, HTML, CSS, JavaScript, React, and Go.
+
 <!--
 **2517364863-prog/2517364863-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
